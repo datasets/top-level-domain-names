@@ -1,0 +1,36 @@
+{
+  "title": "Top Level Domain Names",
+  "name": "top-level-domain-names ",
+  "description": " Database represents the delegation details of top-level domains",
+  "licenses": [
+    {
+      "url": "http://www.opendefinition.org/licenses/odc-pddl",
+      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
+      "id": "ODC-PDDL-1.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "top-level-domain-names.csv",
+      "path": "top-level-domain-names.csv",
+      "mediatype": "text/csv",
+      "bytes": 42789,
+      "schema": {
+        "fields": [
+          {
+            "name": "Domain",
+            "type": "string"
+          },
+          {
+            "name": "Type",
+            "type": "string"
+          },
+          {
+            "name": "Sponsoring Organisation",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
