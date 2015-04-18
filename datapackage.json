@@ -1,7 +1,7 @@
 {
   "title": "Top Level Domain Names",
-  "name": "top-level-domain-names ",
-  "description": " Database represents the delegation details of top-level domains",
+  "name": "top-level-domain-names",
+  "description": "Database represents the delegation details of top-level domains",
   "licenses": [
     {
       "url": "http://www.opendefinition.org/licenses/odc-pddl",
