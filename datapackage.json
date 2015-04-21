@@ -7,6 +7,7 @@
       "name":"The Internet Assigned Numbers Authority (IANA)",
       "web": "http://http://www.iana.org/domains/root/db"
     }
+  ],
   "licenses" : [
     {
       "url": "http://www.opendefinition.org/licenses/odc-pddl",
