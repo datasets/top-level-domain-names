@@ -8,7 +8,7 @@
       "web": "http://http://www.iana.org/domains/root/db"
     }
   ],
-  "licenses" : [
+  "licenses": [
     {
       "url": "http://www.opendefinition.org/licenses/odc-pddl",
       "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
