@@ -2,6 +2,11 @@
   "title": "Top Level Domain Names",
   "name": "top-level-domain-names",
   "description": "Database represents the delegation details of top-level domains",
+   "sources": [
+    {
+      "name":"The Internet Assigned Numbers Authority (IANA)",
+      "web": "http://http://www.iana.org/domains/root/db"
+    }
   "licenses": [
     {
       "url": "http://www.opendefinition.org/licenses/odc-pddl",
