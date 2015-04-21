@@ -5,7 +5,7 @@
    "sources": [
     {
       "name":"The Internet Assigned Numbers Authority (IANA)",
-      "web": "https://www.iana.org/domains/root/db"
+      "web": "http://www.iana.org/domains/root/db"
     }
   ],
   "maintainers":[ {
