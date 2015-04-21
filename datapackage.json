@@ -8,6 +8,10 @@
       "web": "http://http://www.iana.org/domains/root/db"
     }
   ],
+  "maintainers":[ {
+  "name": "Sadeek Hasna",
+  "email": "ebnalblad2007@gmail.com"
+}],
   "licenses": [
 	  {
 		  "id": "odc-pddl",
