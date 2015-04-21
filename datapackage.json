@@ -9,12 +9,13 @@
     }
   ],
   "licenses": [
-    {
-      "url": "http://www.opendefinition.org/licenses/odc-pddl",
-      "title": "Open Data Commons Public Domain Dedication and Licence 1.0",
-      "id": "ODC-PDDL-1.0"
-    }
-  ],
+	  {
+		  "id": "odc-pddl",
+		  "name": "Public Domain Dedication and License",
+		  "version": "1.0",
+		  "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+	  }
+	],
   "resources": [
     {
       "name": "top-level-domain-names.csv",
