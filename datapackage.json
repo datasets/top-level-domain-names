@@ -12,16 +12,16 @@
   {
   "name": "Sadeek Hasna",
   "twitter": "https://twitter.com/SaddeekHaniHasn"
-}
-],
+   }
+ ],
   "licenses": [
 	  {
 		  "id": "odc-pddl",
 		  "name": "Public Domain Dedication and License",
 		  "version": "1.0",
 		  "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-}
-],
+   }
+ ],
   "resources": [
     {
       "name": "top-level-domain-names.csv",
