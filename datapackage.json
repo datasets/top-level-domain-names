@@ -3,27 +3,27 @@
   "name": "top-level-domain-names",
   "description": "Database represents the delegation details of top-level domains",
    "sources": [
-    {
+     {
       "name":"The Internet Assigned Numbers Authority (IANA)",
       "web": "http://www.iana.org/domains/root/db"
-    }
-  ],
+     }
+   ],
   "maintainers":[ 
-   {
+    {
   "name": "Sadeek Hasna",
   "twitter": "https://twitter.com/SaddeekHaniHasn"
-   }
- ],
+    }
+  ],
   "licenses": [
-   {
+    {
 		  "id": "odc-pddl",
 		  "name": "Public Domain Dedication and License",
 		  "version": "1.0",
 		  "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-   }
- ],
+    }
+  ],
   "resources": [
-   {
+    {
       "name": "top-level-domain-names.csv",
       "path": "top-level-domain-names.csv",
       "mediatype": "text/csv",
