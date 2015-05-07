@@ -1,4 +1,4 @@
-The database represents the delegation details of top-level domains
+This Data Package contains the delegation details of top-level domains
 
 ##Data
 
@@ -7,7 +7,7 @@ http://www.iana.org/domains/root/db
 
 ##Preparation
 
-The data were copied manually from "The Internet Assigned Numbers Authority (IANA)" site then posted to Excel file and saved as CSV file.
+The data were copied manually from "The Internet Assigned Numbers Authority (IANA)" site, and then posted to Excel file and saved as CSV file.
 
 ##License
 
