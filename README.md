@@ -1,7 +1,6 @@
-##Data
-Database represents the delegation details of top-level domains
+The database represents the delegation details of top-level domains
 
-##Source
+##Data
 
 The data is available on :
 http://www.iana.org/domains/root/db
