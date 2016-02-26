@@ -1,4 +1,6 @@
-This Data Package contains the delegation details of top-level domains
+This Data Package contains the delegation details of top-level domains registered with IANA (ie the root zone database).
+
+Depending on your application, you may find the Mozilla Labs [Public Suffix List][https://publicsuffix.org/] since it includes things like .co.uk which effectively operated as TLDs.
 
 ##Data
 
