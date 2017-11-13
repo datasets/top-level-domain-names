@@ -4,8 +4,9 @@
   "description": "This Data Package contains the delegation details of top-level domains",
    "sources": [
      {
-      "name":"The Internet Assigned Numbers Authority (IANA)",
-      "web": "http://www.iana.org/domains/root/db"
+      "name": "The Internet Assigned Numbers Authority (IANA)",
+      "path": "http://www.iana.org/domains/root/db",
+      "title": "The Internet Assigned Numbers Authority (IANA)"
      }
    ],
   "maintainers":[ 
@@ -17,9 +18,9 @@
   "licenses": [
     {
 		  "id": "odc-pddl",
-		  "name": "Public Domain Dedication and License",
+		  "title": "Public Domain Dedication and License",
 		  "version": "1.0",
-		  "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+		  "path": "http://opendatacommons.org/licenses/pddl/1.0/"
     }
   ],
   "resources": [
