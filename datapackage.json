@@ -9,18 +9,18 @@
       "title": "The Internet Assigned Numbers Authority (IANA)"
      }
    ],
-  "maintainers":[ 
+  "contributors":[ 
     {
-  "name": "Sadeek Hasna",
-  "twitter": "https://twitter.com/SaddeekHaniHasn"
+    "name": "Sadeek Hasna",
+    "twitter": "https://twitter.com/SaddeekHaniHasn",
+    "role": "maintainer"
     }
   ],
   "licenses": [
     {
-		  "id": "odc-pddl",
-		  "title": "Public Domain Dedication and License",
-		  "version": "1.0",
-		  "path": "http://opendatacommons.org/licenses/pddl/1.0/"
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
   "resources": [
