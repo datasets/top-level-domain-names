@@ -2,18 +2,18 @@
   "title": "Top Level Domain Names",
   "name": "top-level-domain-names",
   "description": "This Data Package contains the delegation details of top-level domains",
-   "sources": [
-     {
+  "sources": [
+    {
       "name": "The Internet Assigned Numbers Authority (IANA)",
       "path": "http://www.iana.org/domains/root/db",
       "title": "The Internet Assigned Numbers Authority (IANA)"
-     }
-   ],
-  "contributors":[ 
+    }
+  ],
+  "contributors": [
     {
-    "name": "Sadeek Hasna",
-    "twitter": "https://twitter.com/SaddeekHaniHasn",
-    "role": "maintainer"
+      "name": "Sadeek Hasna",
+      "twitter": "https://twitter.com/SaddeekHaniHasn",
+      "role": "maintainer"
     }
   ],
   "licenses": [
@@ -46,5 +46,6 @@
         ]
       }
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
