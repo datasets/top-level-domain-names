@@ -9,7 +9,9 @@ http://www.iana.org/domains/root/db
 
 ## Preparation
 
-The data were copied manually from "The Internet Assigned Numbers Authority (IANA)" site, and then posted to Excel file and saved as CSV file.
+The data is automatically extracted from "The Internet Assigned Numbers Authority (IANA)" site using a script located at `scripts/process.py`. Dependencies for running this script are listed in `scripts/requirements.txt`.
+
+The data is updated monthly via GitHub Actions, ensuring it stays current without manual intervention.
 
 ## License
 
