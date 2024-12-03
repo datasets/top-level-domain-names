@@ -13,6 +13,10 @@ The data is automatically extracted from "The Internet Assigned Numbers Authorit
 
 The data is updated monthly via GitHub Actions, ensuring it stays current without manual intervention.
 
+## Automation
+
+Up-to-date (auto-updates every month) top-level-domain-names dataset could be found on the datahub.io: https://datahub.io/core/top-level-domain-names
+
 ## License
 
 These data are made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://www.opendatacommons.org/licenses/pddl/1.0/
