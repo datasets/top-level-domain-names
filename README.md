@@ -4,8 +4,9 @@ This Data Package contains the delegation details of top-level domains
 
 ## Data
 
-The data is available on :
-http://www.iana.org/domains/root/db
+The data provided (see `data/top-level-domain-names`) in this package offers a consolidated list of top-level domain (TLD) names by compiling information from the following source:
+
+- [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ## Preparation
 
