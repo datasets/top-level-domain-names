@@ -231,8 +231,7 @@ Domain,Type,Sponsoring Organization
 .cbn,generic,"The Christian Broadcasting Network, Inc."
 .cbre,generic,"CBRE, Inc."
 .cbs,generic,Not assigned
-.cc,country-code,"eNIC Cocos (Keeling) Islands Pty.
-Ltd. d/b/a Island Internet Services"
+.cc,country-code,eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services
 .cd,country-code,Office Congolais des Postes et Télécommunications - OCPT
 .ceb,generic,Not assigned
 .center,generic,"Binky Moon, LLC"
@@ -306,8 +305,7 @@ Ltd. d/b/a Island Internet Services"
 .coupons,generic,"Binky Moon, LLC"
 .courses,generic,"Registry Services, LLC"
 .cpa,generic,American Institute of Certified Public Accountants
-.cr,country-code,"National Academy of Sciences
-Academia Nacional de Ciencias"
+.cr,country-code,National Academy of Sciences (Academia Nacional de Ciencias)
 .credit,generic,"Binky Moon, LLC"
 .creditcard,generic,"Binky Moon, LLC"
 .creditunion,generic,"DotCooperation, LLC"
@@ -365,8 +363,7 @@ Academia Nacional de Ciencias"
 .dk,country-code,Dansk Internet Forum
 .dm,country-code,DotDM Corporation
 .dnp,generic,"Dai Nippon Printing Co., Ltd."
-.do,country-code,"Pontificia Universidad Catolica Madre y Maestra
-Recinto Santo Tomas de Aquino"
+.do,country-code,"Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino"
 .docs,generic,Charleston Road Registry Inc.
 .doctor,generic,"Binky Moon, LLC"
 .dodge,generic,Not assigned
@@ -395,8 +392,7 @@ Recinto Santo Tomas de Aquino"
 .edu,sponsored,EDUCAUSE
 .education,generic,"Binky Moon, LLC"
 .ee,country-code,Eesti Interneti Sihtasutus (EIS)
-.eg,country-code,"Egyptian Universities Network (EUN)
-Supreme Council of Universities"
+.eg,country-code,"Egyptian Universities Network (EUN), Supreme Council of Universities"
 .eh,country-code,Not assigned
 .email,generic,"Binky Moon, LLC"
 .emerck,generic,Merck KGaA
@@ -621,9 +617,7 @@ IT Services"
 .ice,generic,"IntercontinentalExchange, Inc."
 .icu,generic,Shortdot SA
 .id,country-code,Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
-.ie,country-code,"University College Dublin
-Computing Services
-Computer Centre"
+.ie,country-code,"University College Dublin, Computing Services, Computer Centre"
 .ieee,generic,IEEE Global LLC
 .ifm,generic,ifm electronic gmbh
 .iinet,generic,Not assigned
@@ -721,8 +715,7 @@ Computer Centre"
 .ky,country-code,Utility Regulation and Competition Office (OfReg)
 .kyoto,generic,Academic Institution: Kyoto Jyoho Gakuen
 .kz,country-code,Association of IT Companies of Kazakhstan
-.la,country-code,"Lao National Internet Center (LANIC),
-Ministry of Technology and Communications"
+.la,country-code,"Lao National Internet Center (LANIC), Ministry of Technology and Communications"
 .lacaixa,generic,"Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, ""la Caixa"""
 .ladbrokes,generic,Not assigned
 .lamborghini,generic,Automobili Lamborghini S.p.A.
@@ -793,9 +786,7 @@ LK Domain Registrar"
 .lupin,generic,Not assigned
 .luxe,generic,"Registry Services, LLC"
 .luxury,generic,Luxury Partners LLC
-.lv,country-code,"University of Latvia
-Institute of Mathematics and Computer Science
-Department of Network Solutions (DNS)"
+.lv,country-code,"University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)"
 .ly,country-code,General Post and Telecommunication Company
 .ma,country-code,Agence Nationale de Réglementation des Télécommunications (ANRT)
 .macys,generic,Not assigned
@@ -885,8 +876,7 @@ Department of Network Solutions (DNS)"
 .mutual,generic,Not assigned
 .mutuelle,generic,Not assigned
 .mv,country-code,Dhivehi Raajjeyge Gulhun PLC
-.mw,country-code,"Malawi Sustainable Development Network Programme
-(Malawi SDNP)"
+.mw,country-code,Malawi Sustainable Development Network Programme (Malawi SDNP)
 .mx,country-code,"NIC-Mexico
 ITESM - Campus Monterrey"
 .my,country-code,MYNIC Berhad
@@ -987,9 +977,7 @@ ITESM - Campus Monterrey"
 .pet,generic,Identity Digital Limited
 .pf,country-code,Gouvernement de la Polynésie française
 .pfizer,generic,Pfizer Inc.
-.pg,country-code,"PNG DNS Administration
-Vice Chancellors Office
-The Papua New Guinea University of Technology"
+.pg,country-code,"PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology"
 .ph,country-code,PH Domain Foundation
 .pharmacy,generic,National Association of Boards of Pharmacy
 .phd,generic,Charleston Road Registry Inc.
@@ -1040,9 +1028,7 @@ The Papua New Guinea University of Technology"
 .protection,generic,XYZ.COM LLC
 .pru,generic,"Prudential Financial, Inc."
 .prudential,generic,"Prudential Financial, Inc."
-.ps,country-code,"Ministry Of Telecommunications &
-Information Technology,
-Government Computer Center."
+.ps,country-code,"Ministry of Telecommunications & Information Technology, Government Computer Center"
 .pt,country-code,Associação DNS.PT
 .pub,generic,"Dog Beach, LLC"
 .pw,country-code,Micronesia Investment and Development Corporation
@@ -1063,7 +1049,7 @@ Government Computer Center."
 .realty,generic,Internet Naming Co.
 .recipes,generic,"Binky Moon, LLC"
 .red,generic,Identity Digital Limited
-.redstone,generic,"Redstone Haute Couture Co., Ltd."
+.redstone,generic,Not assigned
 .redumbrella,generic,"Travelers TLD, LLC"
 .rehab,generic,"Dog Beach, LLC"
 .reise,generic,"Binky Moon, LLC"
@@ -1225,8 +1211,7 @@ Government Computer Center."
 .studio,generic,"Dog Beach, LLC"
 .study,generic,"Registry Services, LLC"
 .style,generic,"Binky Moon, LLC"
-.su,country-code,"Russian Institute for Development of Public Networks
-(ROSNIIROS)"
+.su,country-code,Russian Institute for Development of Public Networks (ROSNIIROS)
 .sucks,generic,Vox Populi Registry Ltd.
 .supplies,generic,"Binky Moon, LLC"
 .supply,generic,"Binky Moon, LLC"
@@ -1290,9 +1275,7 @@ Department of Computer Science"
 .tm,country-code,TM Domain Registry Ltd
 .tmall,generic,Alibaba Group Holding Limited
 .tn,country-code,Agence Tunisienne d'Internet
-.to,country-code,"Government of the Kingdom of Tonga
-H.R.H. Crown Prince Tupouto'a
-c/o Consulate of Tonga"
+.to,country-code,"Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga"
 .today,generic,"Binky Moon, LLC"
 .tokyo,generic,"GMO Registry, Inc."
 .tools,generic,"Binky Moon, LLC"
@@ -1315,8 +1298,7 @@ c/o Consulate of Tonga"
 .travelersinsurance,generic,"Travelers TLD, LLC"
 .trust,generic,Internet Naming Co.
 .trv,generic,"Travelers TLD, LLC"
-.tt,country-code,"University of the West Indies
-Faculty of Engineering"
+.tt,country-code,"University of the West Indies, Faculty of Engineering"
 .tube,generic,Latin American Telecom LLC
 .tui,generic,TUI AG
 .tunes,generic,"Amazon Registry Services, Inc."
