@@ -99,7 +99,7 @@ Domain,Type,Sponsoring Organization
 .axa,generic,AXA Group Operations SAS
 .az,country-code,IntraNS
 .azure,generic,Microsoft Corporation
-.ba,country-code,Universtiy Telinformatic Centre (UTIC)
+.ba,country-code,University Tele-Informatic Center (UTIC)
 .baby,generic,XYZ.COM LLC
 .baidu,generic,"Baidu, Inc."
 .banamex,generic,Citigroup Inc.
@@ -413,7 +413,7 @@ Domain,Type,Sponsoring Organization
 .esurance,generic,Not assigned
 .et,country-code,Ethio telecom
 .etisalat,generic,Not assigned
-.eu,country-code,EURid vzw/asbl
+.eu,country-code,EURid vzw
 .eurovision,generic,European Broadcasting Union (EBU)
 .eus,generic,Puntueus Fundazioa
 .events,generic,"Binky Moon, LLC"
