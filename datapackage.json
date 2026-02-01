@@ -28,7 +28,7 @@
       "name": "top-level-domain-names.csv",
       "path": "data/top-level-domain-names.csv",
       "mediatype": "text/csv",
-      "bytes": 71104,
+      "bytes": 71130,
       "schema": {
         "fields": [
           {
